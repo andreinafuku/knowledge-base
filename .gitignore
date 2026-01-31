@@ -1,0 +1,24 @@
+# Obsidian workspace (estado da UI)
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/workspace-mobile.json
+
+# Cache do Obsidian
+.obsidian/cache
+
+# Arquivos temporários
+.trash/
+*.tmp
+*~
+.DS_Store
+
+# Arquivos sensíveis (adicione conforme necessário)
+# Descomente se tiver pasta de trabalho confidencial:
+# Projetos/Clientes/
+# Daily Notes/Trabalho/
+
+# Plugins que você não quer versionar (opcional)
+# .obsidian/plugins/obsidian-git/
+
+# Backups locais
+*.backup
